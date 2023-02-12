@@ -2,6 +2,8 @@
 
 Basic espresso machine control board with [WeAct Studio STM32F411CEU6 BlackPill](https://stm32-base.org/boards/STM32F411CEU6-WeAct-Black-Pill-V2.0.html) extension board. Is good for Gaggiuino project also.
 
+<img src="pic/3D_GaggiaBoard_V3_EasyEda_2023-02-12-3d1.png" width="50%">
+
 ## Originality 
 
 The project based on GaggiaBoard_V3 which is part of the [CoffeeHat](https://github.com/banoz/CoffeeHat) repository created by [banoz](https://github.com/banoz). 
@@ -44,6 +46,15 @@ I2C port on PB6(I2C1_SCL)/PB7(I2C1_SDA)
 J27 - USART1 (PA9/10) with NRST and BOOT1
 ```
 
-DISCLAIMER
+## Some Pictures
+
+<img src="pic/3D_GaggiaBoard_V3_EasyEda_2023-02-12-top.png" width="25%">
+<img src="pic/3D_GaggiaBoard_V3_EasyEda_2023-02-12-bottom.png" width="25%">
+<img src="pic/SCH_GaggiaBoard_V3_EasyEda_0-GaggiaBoard_V3_2_2023-02-12.png" width="25%">
+<img src="pic/SCH_GaggiaBoard_V3_EasyEda_0-GaggiaBoard_V3_1_2023-02-12.png" width="25%">
+
+
+## DISCLAIMER
 
 This project is provided AS-IS, use at your sole discretion and your own risk. Parts of this project can work under dangerous voltages and require special care. Please don't do anything you're not sure about. The maintainer(s) can not be held liable for any suffer or loss or harm or anything else.
+
